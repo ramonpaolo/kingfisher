@@ -130,6 +130,9 @@ Cargo.lock
 # CMake
 cmake-build-*/
 
+# Docker
+.dockerignore
+
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
